@@ -1,0 +1,1 @@
+alert("I am inserting this javascript file as external ...");
